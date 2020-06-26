@@ -1,3 +1,6 @@
+# ChangeMyPet
+It combines two separately trained models(Biggan and image segmentation) into a single pipeline.
+The models are described below.
 # BigGAN Generators with Pretrained Weights in Pytorch 
 Pytorch implementation of the generator of Large Scale GAN Training for High Fidelity Natural Image Synthesis (BigGAN). 
 
