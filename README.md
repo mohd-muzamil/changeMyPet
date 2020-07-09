@@ -1,6 +1,21 @@
 # ChangeMyPet
 It combines two separately trained models(Biggan and image segmentation) into a single pipeline.
 The models are described below.
+# DeepLabCut v3
+Deeplabv3-ResNet101 is contructed by a Deeplabv3 model with a ResNet-101 backbone. The pre-trained model has been trained on a subset of COCO train2017, on the 20 categories that are present in the Pascal VOC dataset.
+Their accuracies of the pre-trained models evaluated on COCO val2017 dataset are listed below.
+
+| Model structure | Mean IOU | Pixelwise Accuracy |
+| ------ | ------ | ------ |
+| deeplabv3_resnet101 | 67.4 | 92.4 |
+
+
+`import torch
+model = torch.hub.load('pytorch/vision:v0.6.0', 'deeplabv3_resnet101', pretrained=True)
+model.eval()`
+
+All pre-trained models expect input images normalized in the same way, i.e. mini-batches of 3-channel RGB images of shape (N, 3, H, W), where N is the number of images, H and W are expected to be at least 224 pixels. The images have to be loaded in to a range of [0, 1] and then normalized using **mean = [0.485, 0.456, 0.406]** and **std = [0.229, 0.224, 0.225].**
+The model returns an OrderedDict with two Tensors that are of the same height and width as the input Tensor, but with 21 classes. output['out'] contains the semantic masks, and output['aux'] contains the auxillary loss values per-pixel. In inference mode, output['aux'] is not useful. So, output['out'] is of shape **(N, 21, H, W)**. More documentation can be found [here](https://pytorch.org/docs/stable/torchvision/models.html#object-detection-instance-segmentation-and-person-keypoint-detection).
 # BigGAN Generators with Pretrained Weights in Pytorch 
 Pytorch implementation of the generator of Large Scale GAN Training for High Fidelity Natural Image Synthesis (BigGAN). 
 
