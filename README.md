@@ -1,2 +1,2 @@
-# Check "developer" branch
+# Check "develope" branch
 
