@@ -97,7 +97,7 @@ dependencies:
 
 # Contact 
 
-Please feel free to leave suggestions or comments to (aman.jaiswal@dal.ca).
+Please feel free to leave suggestions or comments to (mohamed.muzamilh@dal.ca).
 
 
 
