@@ -56,7 +56,7 @@ The results are quite interesting and the model is learning to generate images i
 
  
 
-- Clone the repository in your GitHub account [Clone with HTTPS](https://github.com/amanjaiswal73892/changemypet.git)
+- Clone this repo.
 - To run the code, please download the pretrained pytorch weights first. [Pretrained Weights](https://github.com/ivclab/BigGAN-Generator-Pretrained-Pytorch/releases/tag/v0.0.0)
 ```shell
     biggan512-release.pt    # download this for generating 512*512 images
