@@ -93,6 +93,7 @@ dependencies:
   - scipy
 
 
+<hr>
 Please feel free to leave suggestions or comments to (mohamed.muzamilh@dal.ca).
 
 
