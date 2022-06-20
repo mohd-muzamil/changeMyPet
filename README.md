@@ -93,7 +93,6 @@ dependencies:
   - scipy
 
 
-### Contact 
 Please feel free to leave suggestions or comments to (mohamed.muzamilh@dal.ca).
 
 
