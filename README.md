@@ -84,8 +84,6 @@ https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/
 
 
 
-
-
 # Dependencies 
 dependencies:
   - python=3.6
@@ -95,8 +93,7 @@ dependencies:
   - scipy
 
 
-# Contact 
-
+### Contact 
 Please feel free to leave suggestions or comments to (mohamed.muzamilh@dal.ca).
 
 
