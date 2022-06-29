@@ -1,16 +1,8 @@
-# Change My Pet
-<div align="center">
-    <a>
-        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/logo1.png?raw=true0" width="300" height="120">
-    </a>
-</div>
-<br />
+### Change My Pet ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.IrisDashboard)
 
+Experimental project to replace image of a dog/cat with a GAN(Generative adversarial network) generated image with the help of segmentation masks.
  
-
-> ChangeMyPet provides a deep learning model that is capable of replacing a real dog/cat image with a GAN(Generative adversarial network) generated image with the help of segmentation masks.
-
- 
+![Publication](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21)
 
 # Results:
 <div align="center">
@@ -25,8 +17,6 @@
     </a>
 </div>
 <br />
-
- 
 
 
 # Exciting Gifs:
@@ -47,15 +37,10 @@
 <br />
 
  
-
 The results are quite interesting and the model is learning to generate images in the required segment. Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. Our next step is to include Discriminator so that the images generated look more real. Generate a pull request if you want to conrtribute to the project.
 
- 
 
-# Demo
-
- 
-
+### Steps
 - Clone this repo.
 - To run the code, please download the pretrained pytorch weights first. [Pretrained Weights](https://github.com/ivclab/BigGAN-Generator-Pretrained-Pytorch/releases/tag/v0.0.0)
 ```shell
@@ -66,35 +51,13 @@ The results are quite interesting and the model is learning to generate images i
 
  
 
-# References 
-paper: https://arxiv.org/abs/1809.11096
-
- 
-
+# References paper: 
+https://arxiv.org/abs/1809.11096
 https://github.com/ivclab/BIGGAN-Generator-Pretrained-Pytorch
-
- 
-
 https://pytorch.org/hub/pytorch_vision_fcn_resnet101/
-
- 
-
 https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/
 
 
-
-
-# Dependencies 
-dependencies:
-  - python=3.6
-  - cudatoolkit=10.0
-  - pytorch
-  - torchvision
-  - scipy
-
-
-<hr>
-Please feel free to leave suggestions or comments to (mohamed.muzamilh@dal.ca).
 
 
 
