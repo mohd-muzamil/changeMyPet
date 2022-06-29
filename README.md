@@ -2,7 +2,7 @@
 
 Experimental project to replace image of a dog/cat with a GAN(Generative adversarial network) generated image with the help of segmentation masks.
  
-![Publication](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21)
+[Publication](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21)
 
 # Results:
 <div align="center">
@@ -52,10 +52,10 @@ The results are quite interesting and the model is learning to generate images i
  
 
 # References paper: 
-https://arxiv.org/abs/1809.11096
-https://github.com/ivclab/BIGGAN-Generator-Pretrained-Pytorch
-https://pytorch.org/hub/pytorch_vision_fcn_resnet101/
-https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/
+https://arxiv.org/abs/1809.11096 <br>
+https://github.com/ivclab/BIGGAN-Generator-Pretrained-Pytorch <br>
+https://pytorch.org/hub/pytorch_vision_fcn_resnet101/ <br>
+https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/ <br>
 
 
 
