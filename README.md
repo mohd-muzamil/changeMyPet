@@ -1,8 +1,9 @@
-### Change My Pet [Publication:Controlling BigGAN Image Generation with a Segmentation Network](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.IrisDashboard)
+### Change My Pet ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.IrisDashboard)
+[Publication:Controlling BigGAN Image Generation with a Segmentation Network](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21)
 
 Experimental project to replace image of a dog/cat with a GAN(Generative adversarial network) generated image with the help of segmentation masks.
 
-# Results:
+###Results:
 <div align="center">
     <a>
         <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example2.png?raw=true" />
@@ -16,8 +17,6 @@ Experimental project to replace image of a dog/cat with a GAN(Generative adversa
 </div>
 <br />
 
-
-# Exciting Gifs:
 <div align="center">
     <a>
         <img src="https://raw.githubusercontent.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/master/assets/gif2.gif" width="500" height="500"/>
@@ -29,8 +28,6 @@ Experimental project to replace image of a dog/cat with a GAN(Generative adversa
         <img src="https://raw.githubusercontent.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/master/assets/gif1.gif" width="500" height="500"/>
     </a>
 </div>
-
- 
 
 <br />
 
@@ -49,16 +46,8 @@ The results are quite interesting and the model is learning to generate images i
 
  
 
-# References paper: 
+### References:
 https://arxiv.org/abs/1809.11096 <br>
 https://github.com/ivclab/BIGGAN-Generator-Pretrained-Pytorch <br>
 https://pytorch.org/hub/pytorch_vision_fcn_resnet101/ <br>
 https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/ <br>
-
-
-
-
-
-
-
-
