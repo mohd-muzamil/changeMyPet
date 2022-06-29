@@ -6,7 +6,10 @@ Experimental project developed as part of Deep Learning Course requirement.
 Contributors: <br>
 Mohamed Muzamil, Aman Jaiswal, Harpreet Singh Sodhi, Rajveen Singh Chandhok
 
-###Results:
+The results are quite interesting as the model learnt to generate images in the required segment. 
+Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. 
+Our next step is to include discriminator so that the images generated look more real. Generate a pull request if you want to conrtribute to the project.
+
 <div align="center">
     <a>
         <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example2.png?raw=true" />
@@ -33,10 +36,6 @@ Mohamed Muzamil, Aman Jaiswal, Harpreet Singh Sodhi, Rajveen Singh Chandhok
 </div>
 
 <br />
-
- 
-The results are quite interesting and the model is learning to generate images in the required segment. Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. Our next step is to include Discriminator so that the images generated look more real. Generate a pull request if you want to conrtribute to the project.
-
 
 ### Steps
 - Clone this repo.
