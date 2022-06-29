@@ -1,8 +1,6 @@
-### Change My Pet ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.IrisDashboard)
+### Change My Pet [Publication:Controlling BigGAN Image Generation with a Segmentation Network](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.IrisDashboard)
 
 Experimental project to replace image of a dog/cat with a GAN(Generative adversarial network) generated image with the help of segmentation masks.
- 
-[Publication](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21)
 
 # Results:
 <div align="center">
