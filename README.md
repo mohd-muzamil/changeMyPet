@@ -1,7 +1,9 @@
 ### Change My Pet ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.IrisDashboard)
 [Publication: Controlling BigGAN Image Generation with a Segmentation Network](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21)
 
-Experimental project to replace image of a dog/cat with a GAN(Generative adversarial network) generated image with the help of segmentation masks.
+Experimental project developed as part of Deep Learning Course requirement.
+Contributors:
+Mohamed Muzamil, Aman Jaiswal, Harpreet Singh Sodhi, Rajveen Singh Chandhok
 
 ###Results:
 <div align="center">
@@ -51,10 +53,3 @@ https://arxiv.org/abs/1809.11096 <br>
 https://github.com/ivclab/BIGGAN-Generator-Pretrained-Pytorch <br>
 https://pytorch.org/hub/pytorch_vision_fcn_resnet101/ <br>
 https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/ <br>
-
-
-<a href="https://github.com/mohd-muzamil/changeMyPet/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mohd-muzamil/changeMyPet" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
