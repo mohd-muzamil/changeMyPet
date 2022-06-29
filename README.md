@@ -53,8 +53,8 @@ https://pytorch.org/hub/pytorch_vision_fcn_resnet101/ <br>
 https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/ <br>
 
 
-<a href = "https://github.com/mohd-muzamil/changeMyPet/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+<a href="https://github.com/mohd-muzamil/changeMyPet/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mohd-muzamil/changeMyPet" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks).
