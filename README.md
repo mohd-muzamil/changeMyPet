@@ -1,7 +1,7 @@
 ### Change My Pet ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.IrisDashboard)
 [Publication: Controlling BigGAN Image Generation with a Segmentation Network](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_21)
 
-Experimental project developed as part of Deep Learning Course requirement.
+Experimental research project developed as part of Deep Learning Course requirement.
 
 Contributors: <br>
 Mohamed Muzamil, Aman Jaiswal, Harpreet Singh Sodhi, Rajveen Singh Chandhok
