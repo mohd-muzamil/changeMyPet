@@ -44,7 +44,7 @@ Our next step is to include discriminator so that the images generated look more
     biggan512-release.pt    # download this for generating 512*512 images
 ```
 - Upload the biggan512-release.pt file to your google drive.
-- Open MSE_average_losses_clean.ipynb file in Google Colab or your Jupyter Notebook and run it. Comments are added to the file as needed.
+- Open src/Model.ipynb file in Google Colab or your Jupyter Notebook and run it. Comments are added to the file as needed.
 
  
 
